@@ -1,1 +1,0 @@
-# omikuji-app
